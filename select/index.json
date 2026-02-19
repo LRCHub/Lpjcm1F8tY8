@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "High On Life（feat. Bonn）",
+  "base_artist": "Martin Garrix",
+  "createdAt": "2026-02-19T10:33:08.929098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/01_High_On_Life_(feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/02_High_On_Life_(feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High on Life (feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/03_High_on_Life_(feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High on Life (feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/04_High_on_Life_(feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix, Bonn",
+      "has_synced": true,
+      "path": "select/05_High_On_Life_(feat._Bonn)_Martin_Garrix,_Bonn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix/Bonn",
+      "has_synced": true,
+      "path": "select/06_High_On_Life_(feat._Bonn)_Martin_Garrix_Bonn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix,Bonn",
+      "has_synced": true,
+      "path": "select/07_High_On_Life_(feat._Bonn)_Martin_Garrix,Bonn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High On Life (Feat. Bonn)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/08_High_On_Life_(Feat._Bonn)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High On Life (feat. Bonn) [Original Mix]",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/09_High_On_Life_(feat._Bonn)_[Original_Mix]_Martin_Garrix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High On Life (feat. Bonn)",
+      "artist": "Martin Garrix, Bonn",
+      "has_synced": false,
+      "path": "select/pl_01_High_On_Life_(feat._Bonn)_Martin_Garrix,_Bonn.txt"
+    }
+  ]
+}
